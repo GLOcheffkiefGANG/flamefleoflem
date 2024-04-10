@@ -1,0 +1,37 @@
+{
+  "name": "shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.24",
+    "global": "^4.4.0",
+    "jsx": "^0.9.89",
+    "JSX": "^1.1.0",
+    "jsx-for-web-components": "^1.2.1",
+    "migrate-mongo": "^11.0.0",
+    "mongo-migrate": "^2.0.2",
+    "mongodb": "^6.5.0",
+    "mongodb-migrate": "^2.0.2",
+    "mongoose": "^8.3.0",
+    "next": "14.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20",
+    "@types/react": "^18.2.74",
+    "@types/react-dom": "^18",
+    "@types/react-slick": "^0.23.13",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "typescript": "^5"
+  }
+}
